@@ -8,7 +8,8 @@ This is a Python script that can encode or decode a string of text to/from its e
 To use this script, simply run it from the command line. You will be prompted to choose whether you want to encode or decode a text. If you choose to encode, you will then be prompted to enter the text you want to encode. The script will then print the base64 encoded string of the entered text. If you choose to decode, you will be prompted to enter the base64 encoded text you want to decode. The script will then print the decoded string of the entered text.
 
 Other use is to Use the web version!
-[Live](https://ruihq.github.io/text-to-base64)
+
+[Live](https://ruihq.github.io/text-to-base64/)
 
 ## Example
 
