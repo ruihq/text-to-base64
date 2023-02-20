@@ -5,7 +5,7 @@
 ![GitHub Workflow Status (with branch)](https://img.shields.io/github/actions/workflow/status/ruihq/text-to-base64/jekyll-gh-pages.yml?branch=main)
 [![Contributors](https://img.shields.io/badge/Contributors-4-brightgreen?style=flat)](CONTRIBUTORS.md)
 [![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-CODE%20OF%20CONDUCT-brightgreen)](https://github.com/ruihq/text-to-base64/blob/main/CODE_OF_CONDUCT.md)
-
+![BWS](https://img.shields.io/badge/-Built%20With%20Swag-brightgreen)
 
 This is a Python script that can encode or decode a string of text to/from its equivalent base64 representation.
 
